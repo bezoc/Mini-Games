@@ -1,7 +1,15 @@
 # Mini-Games
 Mini games created to put my programming learnings into practice.
 
-<p align="left">🗺️ Hello World!<br><br>It's Bezoc 🏴‍☠️ here!<br><br>I'm a self-taught developer in development 🏗️ and also a Computer Engineering student at USF.<br><br>Training in progress... 🧗🏻</p>
+
+
+
+
+## <p align="left">🗺️ Hello World!<br> 
+
+### <p> It's Bezoc 🏴‍☠️ here!</p>
+I'm a self-taught developer in development 🏗️ and also a Computer Engineering student at USF.
+## <br>Training in Progress... 🧗🏻</p>
 
 ###
 
